@@ -1,14 +1,20 @@
+/*This h1 is the header at the very top of the html page. I center with top of html page, changed color, enlarge it, and changed it from default fontfamily-->
+*/
 h1{
   color: #eff0e5;
   font-family: Nanum Pen Script, cursive;
   text-align: center;
   font-size: 37px;
 }
+/*This h2 is the subheading at the very top of the html page right under Demarcus Jackson. I also changed color,centered it, and enlarged the font-size-->
+*/
 h2{
   color: #eff0e5;
   text-align: center;
   font-size: 20px;
 }
+/*The h3 is the subheadings before right before the paragraphs
+*/
 h3{
   text-align: center;
   color: #6b655b;
@@ -16,15 +22,15 @@ h3{
   background-color: #FFFFFF;
   font-family: 'Montserrat Alternates', sans-serif;
 }
-h4{
-  color: #eff0e5;
-  text-align: center;
-}
+/*The header css below is how I changed the background color
+*/
 header{
   height: 100px;
   background-color: #6b655b;
   margin-bottom: 30px;
 }
+/*The image that was used as the portfolio picuture and these are the adjust I made to center control the size of the picture.
+*/
 img{
   width: 50%;
   height: 70%;
@@ -32,25 +38,35 @@ img{
   margin-left: auto;
   margin-right: auto 
 }
+/*The div p was used to adjust the text to make it line up close to the center of the page
+*/
 div p{
- padding-left: 340px;
+ padding-left: 540px;
  width: 500px;
  background-color: #FFFFFF;
  
 }
+/*The div ul was used to adjust the text to make it line up close to the center of the page alittle behind the p since it creates a bulletion
+*/
 div ul{
- padding-left: 370px;
+ padding-left: 570px;
  
 }
+/*The div contact background was used for correcting contrast issues found on the website
+*/
 div contact{
 background-color: #F1F1EF;
 }
+/*I used the section to design the lines that seperate each section of information from each other 
+*/
 section{
   background: #6b655b;
   height: 2px;
   width: 600px;
   margin: 0 auto;
 }
+/*The footer is where I added the copyright symbol that you see constantly at the bottom when you scroll page
+*/
 footer p{
    position:fixed;
    left:0px;
@@ -61,6 +77,8 @@ footer p{
    text-align: center;
    color: #eff0e5;
 }
+/*These are the links I used in the contact settings
+*/
 a:link {
   color: blue;
   background-color: #FFFFFF;
@@ -77,6 +95,8 @@ a:active{
   color: red;
   background-color: #FFFFFF;
 }
+/*These are settings I used to adjust the frame of the google map image you see towards the bottom
+*/
 iframe{
 border: none; 
 display: block;
@@ -86,6 +106,8 @@ top:0;
 left:0;
 right:0;
 }
+/*These were both just added to fix constrast errors
+*/
 div{
   background-color: #FFFFFF;
 }
