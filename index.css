@@ -41,7 +41,7 @@ img{
 /*The div p was used to adjust the text to make it line up close to the center of the page
 */
 div p{
- padding-left: 540px;
+ padding-left: 340px;
  width: 500px;
  background-color: #FFFFFF;
  
@@ -49,7 +49,7 @@ div p{
 /*The div ul was used to adjust the text to make it line up close to the center of the page alittle behind the p since it creates a bulletion
 */
 div ul{
- padding-left: 570px;
+ padding-left: 370px;
  
 }
 /*The div contact background was used for correcting contrast issues found on the website
