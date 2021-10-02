@@ -33,13 +33,13 @@ img{
   margin-right: auto 
 }
 div p{
- padding-left: 440px;
- width: 400px;
+ padding-left: 340px;
+ width: 500px;
  background-color: #FFFFFF;
  
 }
 div ul{
- padding-left: 570px;
+ padding-left: 370px;
  
 }
 div contact{
@@ -51,7 +51,7 @@ section{
   width: 600px;
   margin: 0 auto;
 }
-footer {
+footer p{
    position:fixed;
    left:0px;
    bottom:0px;
@@ -59,6 +59,7 @@ footer {
    width:100%;
    background:#6b655b;
    text-align: center;
+   color: #eff0e5;
 }
 a:link {
   color: blue;
